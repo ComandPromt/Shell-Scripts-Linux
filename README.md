@@ -4,4 +4,4 @@
 
 ~~~bash
 sudo update-alternatives --config java
-~~~bash
+~~~
