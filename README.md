@@ -2,6 +2,6 @@
 
 ## Cambiar java por defecto
 
-~bash
+~~~bash
 sudo update-alternatives --config java
-~bash
+~~~bash
